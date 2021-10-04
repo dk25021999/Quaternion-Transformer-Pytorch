@@ -1,6 +1,6 @@
 # Quaternion-Transformer-Pytorch
 
-Currently the Embedding Layer and positional encoder are real-NN rest all are quaternion-NN.
+Currently the Encoder and Decoder Layer are are Quaternion-NN. Prediction Layer is Real fully connected layer. Embeddig Layer is also Real.
 
 *Testing code will be added shortly.
 
